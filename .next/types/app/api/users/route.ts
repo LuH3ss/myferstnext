@@ -1,4 +1,4 @@
-// File: /home/tierso/Desktop/myferstnext/src/app/api/users/route.js
+// File: /home/madoz/Desktop/myferstnext/src/app/api/users/route.js
 import * as entry from '../../../../../src/app/api/users/route.js'
 import type { NextRequest } from 'next/server.js'
 

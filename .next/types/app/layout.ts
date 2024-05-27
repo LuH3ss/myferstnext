@@ -1,4 +1,4 @@
-// File: /home/tierso/Desktop/myferstnext/src/app/layout.jsx
+// File: /home/madoz/Desktop/myferstnext/src/app/layout.jsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
